@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">optalk_korpakolas</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Optalk - Beadando</string>
+    <string name="second_fragment_label">Korpakolas</string>
+    <string name="next">Korpakolas</string>
+    <string name="previous">Vissza</string>
+    <string name="start_circle_packing">Start Packing</string>
+    <string name="iterate_once">Decrase Step Size</string>
+    <string name="generate_circles">Generate Random Circles</string>
+
+    <string name="text_area">Filled area:</string>
+    <string name="text_distance">Distance:</string>
+    <string name="text_stepSize">Step size:</string>
+    <string name="text_numOfCircles">Circles:</string>
+    <string name="view_area"></string>
+    <string name="view_stepSize"></string>
+    <string name="view_numOfCircles"></string>
+    <string name="view_distance"></string>
+
+    <string name="hello_first_fragment">Optalk - Korpakolas Egyseg Negyzetbe</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
